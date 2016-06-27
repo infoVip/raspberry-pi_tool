@@ -1,0 +1,19 @@
+{
+  "name": "weiborobot",
+  "version": "1.0.0",
+  "description": "自动发微博",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weibo",
+    "robot"
+  ],
+  "author": "magic",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "request": "^2.72.0"
+  }
+}
